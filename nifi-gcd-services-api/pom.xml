@@ -5,13 +5,12 @@
     <parent>
         <artifactId>nifi-gcd-bundle</artifactId>
         <groupId>cc.datafabric.nifi</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cc.datafabric.nifi</groupId>
     <artifactId>nifi-gcd-services-api</artifactId>
-    <version>1.0-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
